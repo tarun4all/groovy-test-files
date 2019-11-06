@@ -1,0 +1,1 @@
+print this.args[0]
